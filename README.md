@@ -1,5 +1,5 @@
 # WhiteAlbum2SpecialCHS
-『WHITE ALBUM EXTENDED EDITION』***Special Context***部分的汉化文本
+『**WHITE ALBUM EXTENDED EDITION**』***Special Context***部分的汉化文本
 
 汉化补丁预计12月底放出。
 
