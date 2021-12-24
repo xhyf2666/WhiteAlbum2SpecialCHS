@@ -2,7 +2,7 @@
 『**WHITE ALBUM EXTENDED EDITION**』***Special Contents***的汉化文本
 
 ![image](https://github.com/xyx266617/WhiteAlbum2SpecialCHS/blob/main/image/menu1.png)
-汉化补丁已放出。  
+[汉化补丁](https://github.com/xyx266617/WhiteAlbum2SpecialCHS/releases/download/1.0/WHITE.ALBUM2.Special.Contents.rar)已放出。  
 
 文本整合自网络资源，在此基础上进行调整和修改。  
   
