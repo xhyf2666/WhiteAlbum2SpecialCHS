@@ -3,11 +3,11 @@
 
 ![image](https://github.com/xyx266617/WhiteAlbum2SpecialCHS/blob/main/image/menu1.png)
 [汉化补丁](https://github.com/xyx266617/WhiteAlbum2SpecialCHS/releases/download/1.0/WHITE.ALBUM2.Special.Contents.rar)已放出。  
-
+[百度网盘](https://pan.baidu.com/s/1oDEMi4RuFVsR61QNlr5Q5Q)，提取码:9338
+[github](https://github.com/xyx266617/WhiteAlbum2SpecialCHS/releases/download/1.0/WHITE.ALBUM2.Special.Contents.rar)
+  
 文本整合自网络资源，在此基础上进行调整和修改。  
   
-
-**欢迎大家斧正，共同校对翻译!**
 
 
   
