@@ -1,5 +1,5 @@
 # WhiteAlbum2SpecialCHS
-『**WHITE ALBUM EXTENDED EDITION**』***Special Contents***的汉化文本
+『**WHITE ALBUM 2 EXTENDED EDITION**』***Special Contents***的汉化文本
 
 ![image](https://github.com/xyx266617/WhiteAlbum2SpecialCHS/blob/main/image/menu1.png)
 [汉化补丁](https://github.com/xyx266617/WhiteAlbum2SpecialCHS/releases/download/1.0/WHITE.ALBUM2.Special.Contents.rar)已放出。  
