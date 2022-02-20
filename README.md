@@ -6,6 +6,9 @@
 [百度网盘下载链接](https://pan.baidu.com/s/10nqnqC3zYkGYVroMsU7krg)(1224)  
 [github下载链接](https://github.com/xyx266617/WhiteAlbum2SpecialCHS/releases/download/1.0/WHITE.ALBUM2.Special.Contents.rar)
   
+[游戏本体获取方式](https://pan.huang1111.cn/s/A3gfB)
+下载游戏本体和补丁后，将补丁解压到游戏本体中special部分以使用
+  
 文本整合自网络资源，在此基础上进行调整和修改。  
   
 
