@@ -19,7 +19,7 @@
 - [ ] 电视、广播剧汉化
 - [ ] 视频汉化
 - [ ] 翻译润色
-- [x] 菜单汉化
+- [x] 菜单汉化 [下载](https://github.com/xyx266617/WhiteAlbum2SpecialCHS/blob/main/patch/WA2_Special_cn2.exe)
 - [ ] PS3剧情导入
 - [ ] 解析LFS脚本函数
   
